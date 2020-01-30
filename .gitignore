@@ -1,0 +1,4 @@
+subDir/file1.md
+target/
+*.log
+sample.txt
