@@ -4,3 +4,4 @@
 maru
 sankaku
 hogehoge
+aiueo
