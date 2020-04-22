@@ -3,3 +3,4 @@
 
 maru
 sankaku
+batu
