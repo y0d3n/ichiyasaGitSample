@@ -2,3 +2,4 @@
 『いちばんやさしいGit&GitHubの教本』のサンプルプロジェクト
 
 maru
+sankaku
